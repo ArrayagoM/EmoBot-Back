@@ -65,10 +65,10 @@ El proyecto **no cuenta con financiamiento**. Soy solo una persona con una idea 
 Si querés sumarte o simplemente hablar, podés contactarme desde acá:
 
 **Juan Martín Arrayago**  
-📧 [Tu email o formulario]  
+📧 juanmartinarrayago@gmail.com  
 🧠 "Crear para curar. Programar para sanar."
 
 ---
 
-## 🕊️ Este proyecto es una semilla. Plantala con nosotros.
+## 🕊️ Este proyecto es una semilla. Plantala con migo
 
