@@ -1,0 +1,27 @@
+{
+  "name": "emobot-back",
+  "version": "1.0.0",
+  "description": "**EmoBot** es un proyecto nacido desde el dolor y la esperanza. Su propósito es simple pero urgente: brindar asistencia emocional inmediata a personas que estén atravesando momentos críticos de depresión, ansiedad o pensamientos suicidas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArrayagoM/EmoBot-Back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArrayagoM/EmoBot-Back/issues"
+  },
+  "homepage": "https://github.com/ArrayagoM/EmoBot-Back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "morgan": "^1.10.0"
+  }
+}
